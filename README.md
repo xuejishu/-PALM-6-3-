@@ -31,6 +31,8 @@ Train文件夹里有一个fundus_image文件夹和一个Classification.xlsx文�
 分类结果应在一个名为“Classification_Results.csv”的CSV文件中提供，第一列对应测试眼底图像的文件名(包括扩展名“.jpg”)，对应title为FileName；第二列包含诊断为PM的患者图像的分类预测概率(值从0.0到1.0)，对应title为PM Risk。示例如下：
 
 ![](https://ai.bdstatic.com/file/9B4E52D17D184A0893853C7A3A726BFA)
+## 7.权重文件
+时间太久删除了，不过使用此项目你也可以得到同样的效果
 
 ## 项目结构
 ```
