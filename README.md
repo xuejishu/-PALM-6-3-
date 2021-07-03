@@ -4,9 +4,6 @@
 **比赛地址： [https://aistudio.baidu.com/aistudio/competition/detail/85](https://aistudio.baidu.com/aistudio/competition/detail/85)**
 
 
-[https://github.com/livingbody/Myopia_prediction.git](https://github.com/livingbody/Myopia_prediction.git)
-
-
 
 # 一、赛题介绍
 ## 1. 赛题简介
